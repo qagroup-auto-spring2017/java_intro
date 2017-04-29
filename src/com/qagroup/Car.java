@@ -11,7 +11,7 @@ public class Car {
 	
 	// Constructor
 	public Car(String color, String make, String model) {
-		this.color = color;
+		this.color = "Black";
 		this.make = make;
 		this.model = model;
 	}
